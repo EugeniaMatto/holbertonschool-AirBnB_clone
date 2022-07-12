@@ -2,7 +2,7 @@ section.filters {
     background-color: white;
     height: 70px;
     width: 100%;
-    border: 1px #DDDDDD;
+    border: 1px solid #DDDDDD;
     border-radius: 4px;
     text-align:center;
     display: flex;
@@ -19,7 +19,7 @@ section.filters button {
     border: none;
     border-radius: 4px;
     border-right: 30px;
-    margin-left: 30%;
+    margin-left: 70%;
     position:relative;
 
 }
